@@ -6,7 +6,7 @@ li{background-color:#2476ff;}
 body{font-family: "open sans",sans-serif;}
 header.header{background:url("../img/header.png");width:100%;height:100%;}
 header form.pesquisa{padding-top: 35px;}
-nav#menuNavegacao{font-size:18px; font-family:"dinengschriftregular",sans-serif;font-weight:bold;}
+nav#menuNavegacao{font-size:14px; font-family:"dinengschriftregular",sans-serif;font-weight:bold;}
 nav#menuNavegacao ul.menu > li.menuLi{background-color:#428bca ;text-align: center;}
 nav#menuNavegacao ul.menu > li:hover{background-color:#2476ff;}
 nav#menuNavegacao ul.menu > li.menuLi > a{text-decoration: none;color:#fff; border-top:1px solid #f0f5f7; display: block; position: relative;margin:0;border:0;padding:10px 15px;}
@@ -14,3 +14,6 @@ nav#menuNavegacao ul.menu > li > ul.subMenu li{border-top:1px solid #2476ff; pad
 nav#menuNavegacao ul.menu > li > ul.subMenu li > a{text-decoration: none;color:#2a4773;display: block; position: relative;margin:0;border:0;}
 nav#menuNavegacao ul.menu > li > ul.subMenu li:hover{background-color:#2476ff;}
 nav#menuNavegacao ul.menu > li > ul.subMenu li > a:hover{color:#fff;}
+
+section#conteudo > div.conteudo > h1{padding-bottom:10px; border-bottom:1px groove #333;}
+section#conteudo > div.conteudo > p{text-align: justify;}
